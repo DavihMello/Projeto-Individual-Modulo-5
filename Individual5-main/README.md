@@ -41,8 +41,5 @@ Caso o usuário digite "sair" no início da aplicação, a mesma retornará que 
 ## :wrench: Dependências utilizadas
 * Prompt-sync
 
-## :handshake: Colaboradores
-🧑‍💻 Trabalho autoral de <a href="https://github.com/DevairUva">Devair Martins</a>
-
 ## :dart: Status do projeto
 Projeto Finalizado
